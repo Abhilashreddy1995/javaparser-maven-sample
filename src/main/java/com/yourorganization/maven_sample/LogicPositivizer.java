@@ -60,6 +60,6 @@ public class LogicPositivizer {
                 // The path of the Maven module/project which contains the LogicPositivizer class.
                 CodeGenerationUtils.mavenModuleRoot(LogicPositivizer.class)
                         // appended with a path to "output"
-                        .resolve(Paths.get("output1")));
+                        .resolve(Paths.get("output2")));
     }
 }
